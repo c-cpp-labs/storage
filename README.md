@@ -1,4 +1,7 @@
-# Орки и войны
+# Orccraft
+
+<img align="center" width="400" height="350" src="https://sun9-88.userapi.com/sun9-34/impg/hsMpulXkJKQ6pwuknxTWXVy7_WFKu1AG-99brw/OP7JnHxDq_Y.jpg?size=604x501&quality=96&sign=259a7c921e0a5b2198281c1b00ca7b33&type=album">
+
 
 Реализовать систему учёта бойцов в легионе фентезийного войска
 
