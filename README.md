@@ -1,10 +1,6 @@
 # Orccraft
 
-<img align="center" width="400" height="350" src="https://sun9-88.userapi.com/sun9-34/impg/hsMpulXkJKQ6pwuknxTWXVy7_WFKu1AG-99brw/OP7JnHxDq_Y.jpg?size=604x501&quality=96&sign=259a7c921e0a5b2198281c1b00ca7b33&type=album">
-
-<img align="center" width="400" height="350" src="https://www.meme-arsenal.com/memes/8f06b22dd0f9b4fc5f335bad4c87b417.jpg">
-
-
+<img align="center" width="400" height="350" src="https://www.meme-arsenal.com/memes/f0856c9e3dbd77364924ace61fd5736d.jpg">
 
 Реализовать систему учёта бойцов в легионе фентезийного войска
 
