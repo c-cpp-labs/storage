@@ -98,7 +98,7 @@ $ unit_data_manager
 [**Dear ImGUI**](https://github.com/ocornut/imgui),
 [Ultralight](https://ultralig.ht/),
 [Sciter](https://sciter.com/),
-[**NanoGUI**](https://github.com/wjakob/nanogui) и милая [статеечка]((https://habr.com/ru/post/468485/))
+[**NanoGUI**](https://github.com/wjakob/nanogui) и милая [статеечка](https://habr.com/ru/post/468485/))
 ), которая будет общаться с сервером
 - GUI **необязательно** красивый
 - сделать сайт с аналогичным дизайном (можно на шаблонах, Vue.js/React.js)
